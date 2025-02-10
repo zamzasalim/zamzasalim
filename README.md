@@ -26,7 +26,7 @@
 ---
 
 ## 🤝 **Community Team**
-<a href="https://www.airdropasc.com" target="_blank"><img src="https://github.com/sipalingnode/sipalingnode/blob/main/asc.png" width="25" align="left"/></a>[Website](https://www.airdropasc.com)
+<a href="https://www.airdropasc.com" target="_blank"><img src="https://github.com/sipalingnode/sipalingnode/blob/main/logo.png" width="25" align="left"/></a>[Website](https://www.airdropasc.com)
 
 <a href="https://t.me/airdropasc" target="_blank"><img src="https://github.com/user-attachments/assets/56e7f6ee-18b7-4b36-becc-ec6e4de7bff9" width="25" align="left"/></a>[Telegram](https://t.me/airdropasc)
 
